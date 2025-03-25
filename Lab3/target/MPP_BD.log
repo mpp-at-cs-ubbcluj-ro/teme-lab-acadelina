@@ -1,0 +1,153 @@
+11 Mar 2025 11:01:55,211 INFO  ubb.scs.mpp.CarsDBRepository 20 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:\An2\teme-lab-acadelina\cars} 
+11 Mar 2025 11:01:55,294 TRACE ubb.scs.mpp.CarsDBRepository 79 add - Enter saving task Id=0 Tesla Model S 2019
+11 Mar 2025 11:01:55,295 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 11:01:55,297 TRACE ubb.scs.mpp.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2025 11:01:55,298 INFO  ubb.scs.mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\An2\teme-lab-acadelina\cars
+11 Mar 2025 11:01:55,299 INFO  ubb.scs.mpp.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2025 11:01:55,301 INFO  ubb.scs.mpp.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2025 11:01:55,864 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7bbc8656)
+11 Mar 2025 11:01:55,883 TRACE ubb.scs.mpp.CarsDBRepository 86 add - Saved 1 instances
+11 Mar 2025 11:01:55,885 TRACE ubb.scs.mpp.CarsDBRepository 91 add - Exit
+11 Mar 2025 11:01:55,886 TRACE ubb.scs.mpp.CarsDBRepository 114 findAll - Enter
+11 Mar 2025 11:01:55,887 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 11:01:55,887 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7bbc8656)
+11 Mar 2025 11:01:55,894 TRACE ubb.scs.mpp.CarsDBRepository 133 findAll - Exit
+11 Mar 2025 11:01:55,895 TRACE ubb.scs.mpp.CarsDBRepository 26 findByManufacturer - Enter
+11 Mar 2025 11:01:55,896 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 11:01:55,896 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7bbc8656)
+11 Mar 2025 11:01:55,898 TRACE ubb.scs.mpp.CarsDBRepository 46 findByManufacturer - Exit
+11 Mar 2025 11:05:13,992 INFO  ubb.scs.mpp.CarsDBRepository 20 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:\An2\teme-lab-acadelina\cars} 
+11 Mar 2025 11:05:14,087 TRACE ubb.scs.mpp.CarsDBRepository 79 add - Enter saving task Id=0 Tesla Model S 2019
+11 Mar 2025 11:05:14,088 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 11:05:14,091 TRACE ubb.scs.mpp.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2025 11:05:14,091 INFO  ubb.scs.mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\An2\teme-lab-acadelina\cars
+11 Mar 2025 11:05:14,092 INFO  ubb.scs.mpp.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2025 11:05:14,095 INFO  ubb.scs.mpp.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2025 11:05:14,882 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7bbc8656)
+11 Mar 2025 11:05:14,912 TRACE ubb.scs.mpp.CarsDBRepository 86 add - Saved 1 instances
+11 Mar 2025 11:05:14,914 TRACE ubb.scs.mpp.CarsDBRepository 91 add - Exit
+11 Mar 2025 11:05:14,915 TRACE ubb.scs.mpp.CarsDBRepository 114 findAll - Enter
+11 Mar 2025 11:05:14,916 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 11:05:14,917 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7bbc8656)
+11 Mar 2025 11:05:14,929 TRACE ubb.scs.mpp.CarsDBRepository 133 findAll - Exit
+11 Mar 2025 11:05:14,930 TRACE ubb.scs.mpp.CarsDBRepository 26 findByManufacturer - Enter
+11 Mar 2025 11:05:14,931 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 11:05:14,932 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7bbc8656)
+11 Mar 2025 11:05:14,935 TRACE ubb.scs.mpp.CarsDBRepository 46 findByManufacturer - Exit
+11 Mar 2025 11:05:14,935 TRACE ubb.scs.mpp.CarsDBRepository 96 update - Enter updating task Id=0 Tesla Model X 2025
+11 Mar 2025 11:05:14,937 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 11:05:14,938 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7bbc8656)
+11 Mar 2025 11:05:14,950 TRACE ubb.scs.mpp.CarsDBRepository 104 update - Updated 1 instances
+11 Mar 2025 11:05:14,951 TRACE ubb.scs.mpp.CarsDBRepository 109 update - Exit
+11 Mar 2025 11:05:14,952 TRACE ubb.scs.mpp.CarsDBRepository 26 findByManufacturer - Enter
+11 Mar 2025 11:05:14,953 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 11:05:14,954 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7bbc8656)
+11 Mar 2025 11:05:14,955 TRACE ubb.scs.mpp.CarsDBRepository 46 findByManufacturer - Exit
+11 Mar 2025 11:05:44,297 INFO  ubb.scs.mpp.CarsDBRepository 20 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:\An2\teme-lab-acadelina\cars} 
+11 Mar 2025 11:05:44,365 TRACE ubb.scs.mpp.CarsDBRepository 79 add - Enter saving task Id=0 Tesla Model S 2019
+11 Mar 2025 11:05:44,366 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 11:05:44,367 TRACE ubb.scs.mpp.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2025 11:05:44,368 INFO  ubb.scs.mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\An2\teme-lab-acadelina\cars
+11 Mar 2025 11:05:44,369 INFO  ubb.scs.mpp.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2025 11:05:44,371 INFO  ubb.scs.mpp.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2025 11:05:45,003 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7bbc8656)
+11 Mar 2025 11:05:45,053 TRACE ubb.scs.mpp.CarsDBRepository 86 add - Saved 1 instances
+11 Mar 2025 11:05:45,057 TRACE ubb.scs.mpp.CarsDBRepository 91 add - Exit
+11 Mar 2025 11:05:45,060 TRACE ubb.scs.mpp.CarsDBRepository 114 findAll - Enter
+11 Mar 2025 11:05:45,062 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 11:05:45,065 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7bbc8656)
+11 Mar 2025 11:05:45,084 TRACE ubb.scs.mpp.CarsDBRepository 133 findAll - Exit
+11 Mar 2025 11:05:45,086 TRACE ubb.scs.mpp.CarsDBRepository 26 findByManufacturer - Enter
+11 Mar 2025 11:05:45,088 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 11:05:45,090 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7bbc8656)
+11 Mar 2025 11:05:45,092 TRACE ubb.scs.mpp.CarsDBRepository 46 findByManufacturer - Exit
+11 Mar 2025 11:05:45,095 TRACE ubb.scs.mpp.CarsDBRepository 96 update - Enter updating task Id=0 Tesla Model X 2025
+11 Mar 2025 11:05:45,096 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 11:05:45,097 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7bbc8656)
+11 Mar 2025 11:05:45,099 TRACE ubb.scs.mpp.CarsDBRepository 104 update - Updated 1 instances
+11 Mar 2025 11:05:45,100 TRACE ubb.scs.mpp.CarsDBRepository 109 update - Exit
+11 Mar 2025 11:05:45,102 TRACE ubb.scs.mpp.CarsDBRepository 26 findByManufacturer - Enter
+11 Mar 2025 11:05:45,103 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 11:05:45,104 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7bbc8656)
+11 Mar 2025 11:05:45,106 TRACE ubb.scs.mpp.CarsDBRepository 46 findByManufacturer - Exit
+11 Mar 2025 11:09:10,486 INFO  ubb.scs.mpp.CarsDBRepository 20 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:\An2\teme-lab-acadelina\cars} 
+11 Mar 2025 11:09:10,556 TRACE ubb.scs.mpp.CarsDBRepository 79 add - Enter saving task Id=0 Tesla Model S 2019
+11 Mar 2025 11:09:10,557 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 11:09:10,558 TRACE ubb.scs.mpp.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2025 11:09:10,558 INFO  ubb.scs.mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\An2\teme-lab-acadelina\cars
+11 Mar 2025 11:09:10,560 INFO  ubb.scs.mpp.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2025 11:09:10,561 INFO  ubb.scs.mpp.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2025 11:09:11,238 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7d3e8655)
+11 Mar 2025 11:09:11,273 TRACE ubb.scs.mpp.CarsDBRepository 86 add - Saved 1 instances
+11 Mar 2025 11:09:11,275 TRACE ubb.scs.mpp.CarsDBRepository 91 add - Exit
+11 Mar 2025 11:09:11,277 TRACE ubb.scs.mpp.CarsDBRepository 114 findAll - Enter
+11 Mar 2025 11:09:11,278 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 11:09:11,279 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7d3e8655)
+11 Mar 2025 11:09:11,288 TRACE ubb.scs.mpp.CarsDBRepository 133 findAll - Exit
+11 Mar 2025 11:09:11,290 TRACE ubb.scs.mpp.CarsDBRepository 26 findByManufacturer - Enter
+11 Mar 2025 11:09:11,291 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 11:09:11,292 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7d3e8655)
+11 Mar 2025 11:09:11,294 TRACE ubb.scs.mpp.CarsDBRepository 46 findByManufacturer - Exit
+11 Mar 2025 11:09:11,296 TRACE ubb.scs.mpp.CarsDBRepository 96 update - Enter updating task Id=0 Tesla Model X 2025
+11 Mar 2025 11:09:11,297 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 11:09:11,298 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7d3e8655)
+11 Mar 2025 11:09:11,305 TRACE ubb.scs.mpp.CarsDBRepository 104 update - Updated 1 instances
+11 Mar 2025 11:09:11,305 TRACE ubb.scs.mpp.CarsDBRepository 109 update - Exit
+11 Mar 2025 11:09:11,306 TRACE ubb.scs.mpp.CarsDBRepository 26 findByManufacturer - Enter
+11 Mar 2025 11:09:11,307 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 11:09:11,308 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7d3e8655)
+11 Mar 2025 11:09:11,310 TRACE ubb.scs.mpp.CarsDBRepository 46 findByManufacturer - Exit
+11 Mar 2025 11:09:33,737 INFO  ubb.scs.mpp.CarsDBRepository 20 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:\An2\teme-lab-acadelina\cars} 
+11 Mar 2025 11:09:33,838 TRACE ubb.scs.mpp.CarsDBRepository 79 add - Enter saving task Id=0 Tesla Model S 2019
+11 Mar 2025 11:09:33,839 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 11:09:33,840 TRACE ubb.scs.mpp.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2025 11:09:33,842 INFO  ubb.scs.mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\An2\teme-lab-acadelina\cars
+11 Mar 2025 11:09:33,843 INFO  ubb.scs.mpp.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2025 11:09:33,846 INFO  ubb.scs.mpp.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2025 11:09:34,463 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7d3e8655)
+11 Mar 2025 11:09:34,505 TRACE ubb.scs.mpp.CarsDBRepository 86 add - Saved 1 instances
+11 Mar 2025 11:09:34,508 TRACE ubb.scs.mpp.CarsDBRepository 91 add - Exit
+11 Mar 2025 11:09:34,511 TRACE ubb.scs.mpp.CarsDBRepository 114 findAll - Enter
+11 Mar 2025 11:09:34,513 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 11:09:34,515 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7d3e8655)
+11 Mar 2025 11:09:34,529 TRACE ubb.scs.mpp.CarsDBRepository 133 findAll - Exit
+11 Mar 2025 11:09:34,533 TRACE ubb.scs.mpp.CarsDBRepository 26 findByManufacturer - Enter
+11 Mar 2025 11:09:34,535 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 11:09:34,538 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7d3e8655)
+11 Mar 2025 11:09:34,542 TRACE ubb.scs.mpp.CarsDBRepository 46 findByManufacturer - Exit
+11 Mar 2025 11:09:34,546 TRACE ubb.scs.mpp.CarsDBRepository 96 update - Enter updating task Id=0 Tesla Model X 2025
+11 Mar 2025 11:09:34,548 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 11:09:34,549 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7d3e8655)
+11 Mar 2025 11:09:34,552 TRACE ubb.scs.mpp.CarsDBRepository 104 update - Updated 1 instances
+11 Mar 2025 11:09:34,554 TRACE ubb.scs.mpp.CarsDBRepository 109 update - Exit
+11 Mar 2025 11:09:34,556 TRACE ubb.scs.mpp.CarsDBRepository 26 findByManufacturer - Enter
+11 Mar 2025 11:09:34,558 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 11:09:34,561 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7d3e8655)
+11 Mar 2025 11:09:34,564 TRACE ubb.scs.mpp.CarsDBRepository 46 findByManufacturer - Exit
+11 Mar 2025 11:17:58,417 INFO  ubb.scs.mpp.CarsDBRepository 20 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:\An2\teme-lab-acadelina\cars} 
+11 Mar 2025 11:17:58,507 TRACE ubb.scs.mpp.CarsDBRepository 79 add - Enter saving task Id=0 Tesla Model S 2019
+11 Mar 2025 11:17:58,508 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 11:17:58,510 TRACE ubb.scs.mpp.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2025 11:17:58,511 INFO  ubb.scs.mpp.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\An2\teme-lab-acadelina\cars
+11 Mar 2025 11:17:58,512 INFO  ubb.scs.mpp.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2025 11:17:58,513 INFO  ubb.scs.mpp.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2025 11:17:59,144 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7d3e8655)
+11 Mar 2025 11:17:59,173 TRACE ubb.scs.mpp.CarsDBRepository 86 add - Saved 1 instances
+11 Mar 2025 11:17:59,174 TRACE ubb.scs.mpp.CarsDBRepository 91 add - Exit
+11 Mar 2025 11:17:59,176 TRACE ubb.scs.mpp.CarsDBRepository 114 findAll - Enter
+11 Mar 2025 11:17:59,177 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 11:17:59,177 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7d3e8655)
+11 Mar 2025 11:17:59,185 TRACE ubb.scs.mpp.CarsDBRepository 133 findAll - Exit
+11 Mar 2025 11:17:59,187 TRACE ubb.scs.mpp.CarsDBRepository 26 findByManufacturer - Enter
+11 Mar 2025 11:17:59,188 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 11:17:59,190 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7d3e8655)
+11 Mar 2025 11:17:59,191 TRACE ubb.scs.mpp.CarsDBRepository 46 findByManufacturer - Exit
+11 Mar 2025 11:17:59,193 TRACE ubb.scs.mpp.CarsDBRepository 96 update - Enter updating task Id=0 Tesla Model X 2025
+11 Mar 2025 11:17:59,194 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 11:17:59,195 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7d3e8655)
+11 Mar 2025 11:17:59,205 TRACE ubb.scs.mpp.CarsDBRepository 104 update - Updated 1 instances
+11 Mar 2025 11:17:59,207 TRACE ubb.scs.mpp.CarsDBRepository 109 update - Exit
+11 Mar 2025 11:17:59,208 TRACE ubb.scs.mpp.CarsDBRepository 26 findByManufacturer - Enter
+11 Mar 2025 11:17:59,210 TRACE ubb.scs.mpp.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 11:17:59,211 TRACE ubb.scs.mpp.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7d3e8655)
+11 Mar 2025 11:17:59,213 TRACE ubb.scs.mpp.CarsDBRepository 46 findByManufacturer - Exit
